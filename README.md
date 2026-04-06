@@ -57,8 +57,8 @@ Zumar is a fully functional Android e-commerce app built with Kotlin for a perfu
 
 ## FILES 
 
-- 'CSIT242_Winter2026_Group5_D1_Report.docx' - Full project documentation
-- 'CSIT242_PROJECT DEMO_GROUP5.mp4' - Full app demonstration
+- 'CSIT242_Winter2026_Group5_D1_Report.docx' - Complete project documentation
+- 'CSIT242_PROJECT DEMO_GROUP5.mp4' - Complete app demonstration
 
 ## DISCLAIMER
 **This repository is for viewing purposes only. It is not licensed for copying, modification, or commercial use without explicit permission from the author.**
